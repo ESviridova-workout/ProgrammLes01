@@ -1,0 +1,14 @@
+C:\Users\Елена\Desktop\ProgrammLes01\Tasks01\bin\Debug\net7.0\Tasks01.exe
+C:\Users\Елена\Desktop\ProgrammLes01\Tasks01\bin\Debug\net7.0\Tasks01.deps.json
+C:\Users\Елена\Desktop\ProgrammLes01\Tasks01\bin\Debug\net7.0\Tasks01.runtimeconfig.json
+C:\Users\Елена\Desktop\ProgrammLes01\Tasks01\bin\Debug\net7.0\Tasks01.dll
+C:\Users\Елена\Desktop\ProgrammLes01\Tasks01\bin\Debug\net7.0\Tasks01.pdb
+C:\Users\Елена\Desktop\ProgrammLes01\Tasks01\obj\Debug\net7.0\Tasks01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Елена\Desktop\ProgrammLes01\Tasks01\obj\Debug\net7.0\Tasks01.AssemblyInfoInputs.cache
+C:\Users\Елена\Desktop\ProgrammLes01\Tasks01\obj\Debug\net7.0\Tasks01.AssemblyInfo.cs
+C:\Users\Елена\Desktop\ProgrammLes01\Tasks01\obj\Debug\net7.0\Tasks01.csproj.CoreCompileInputs.cache
+C:\Users\Елена\Desktop\ProgrammLes01\Tasks01\obj\Debug\net7.0\Tasks01.dll
+C:\Users\Елена\Desktop\ProgrammLes01\Tasks01\obj\Debug\net7.0\refint\Tasks01.dll
+C:\Users\Елена\Desktop\ProgrammLes01\Tasks01\obj\Debug\net7.0\Tasks01.pdb
+C:\Users\Елена\Desktop\ProgrammLes01\Tasks01\obj\Debug\net7.0\Tasks01.genruntimeconfig.cache
+C:\Users\Елена\Desktop\ProgrammLes01\Tasks01\obj\Debug\net7.0\ref\Tasks01.dll
