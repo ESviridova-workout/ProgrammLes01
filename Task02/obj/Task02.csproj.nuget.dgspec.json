@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Елена\\Desktop\\ProgrammLes01\\Task02\\Task02.csproj": {}
+    "C:\\Users\\Елена\\Desktop\\nombe1\\ProgrammLes01\\Task02\\Task02.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Елена\\Desktop\\ProgrammLes01\\Task02\\Task02.csproj": {
+    "C:\\Users\\Елена\\Desktop\\nombe1\\ProgrammLes01\\Task02\\Task02.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Елена\\Desktop\\ProgrammLes01\\Task02\\Task02.csproj",
+        "projectUniqueName": "C:\\Users\\Елена\\Desktop\\nombe1\\ProgrammLes01\\Task02\\Task02.csproj",
         "projectName": "Task02",
-        "projectPath": "C:\\Users\\Елена\\Desktop\\ProgrammLes01\\Task02\\Task02.csproj",
+        "projectPath": "C:\\Users\\Елена\\Desktop\\nombe1\\ProgrammLes01\\Task02\\Task02.csproj",
         "packagesPath": "C:\\Users\\Елена\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Елена\\Desktop\\ProgrammLes01\\Task02\\obj\\",
+        "outputPath": "C:\\Users\\Елена\\Desktop\\nombe1\\ProgrammLes01\\Task02\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Елена\\AppData\\Roaming\\NuGet\\NuGet.Config"
