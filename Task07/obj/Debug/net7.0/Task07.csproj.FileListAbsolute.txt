@@ -1,0 +1,14 @@
+C:\Users\Елена\Desktop\nombe1\ProgrammLes01\Task07\obj\Debug\net7.0\Task07.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Елена\Desktop\nombe1\ProgrammLes01\Task07\obj\Debug\net7.0\Task07.AssemblyInfoInputs.cache
+C:\Users\Елена\Desktop\nombe1\ProgrammLes01\Task07\obj\Debug\net7.0\Task07.AssemblyInfo.cs
+C:\Users\Елена\Desktop\nombe1\ProgrammLes01\Task07\obj\Debug\net7.0\Task07.csproj.CoreCompileInputs.cache
+C:\Users\Елена\Desktop\nombe1\ProgrammLes01\Task07\bin\Debug\net7.0\Task07.exe
+C:\Users\Елена\Desktop\nombe1\ProgrammLes01\Task07\bin\Debug\net7.0\Task07.deps.json
+C:\Users\Елена\Desktop\nombe1\ProgrammLes01\Task07\bin\Debug\net7.0\Task07.runtimeconfig.json
+C:\Users\Елена\Desktop\nombe1\ProgrammLes01\Task07\bin\Debug\net7.0\Task07.dll
+C:\Users\Елена\Desktop\nombe1\ProgrammLes01\Task07\bin\Debug\net7.0\Task07.pdb
+C:\Users\Елена\Desktop\nombe1\ProgrammLes01\Task07\obj\Debug\net7.0\Task07.dll
+C:\Users\Елена\Desktop\nombe1\ProgrammLes01\Task07\obj\Debug\net7.0\refint\Task07.dll
+C:\Users\Елена\Desktop\nombe1\ProgrammLes01\Task07\obj\Debug\net7.0\Task07.pdb
+C:\Users\Елена\Desktop\nombe1\ProgrammLes01\Task07\obj\Debug\net7.0\Task07.genruntimeconfig.cache
+C:\Users\Елена\Desktop\nombe1\ProgrammLes01\Task07\obj\Debug\net7.0\ref\Task07.dll
